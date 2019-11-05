@@ -23,4 +23,14 @@ link: https://www.usgs.gov/faqs/how-can-climate-change-affect-natural-disasters-
 
 **[insert timeline]**
 
+* On Monday, November 11th - Project Review Meeting (can change if anyone is away for the weekend to Tuesday November 12th after Data Science or Epi 3)
 
+* By Friday, November 15th - complete the Motivation, Related work, and Initial Questions sections of the report by this date.
+
+* By Tuesday, November 19th - complete the Data section of the report, which includes any scraping and cleaning. Can move this up if we think it will be easier with our data. Additionally, create the webpage by today. 
+
+* By Tuesday, November 26th - complete the Explotatory analysis phase, this should be the longest section. Format the webpage to include the created plots.
+
+* By Tuesday, November 3rd - complete the Additional analysis and Discussion for the Report. This completes the report. Everything expect the screencast will be on the webpage. Have a spot for the screencast already created.
+
+* On Tuesday, November 3rd -  record screencast, upload to youtube, and put the link on the website. Submit project, repo, website link, and peer assessments.
