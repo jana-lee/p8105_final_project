@@ -55,11 +55,11 @@ interest.
     which should be the longest section. Format the webpage to include
     the created plots.
 
-  - By Tuesday, November 3rd - Complete the additional analysis and
+  - By Tuesday, December 3rd - Complete the additional analysis and
     discussion sections for the final report. This completes the report.
     Everything except the screencast will be on the webpage. Will have a
     spot for the screencast already created.
 
-  - On Tuesday, November 3rd - Record screencast, upload to YouTube, and
+  - On Tuesday, December 3rd - Record screencast, upload to YouTube, and
     put the link on the website. Submit project, repo, website link, and
     peer assessments.
