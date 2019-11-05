@@ -7,15 +7,18 @@ Ashley Tseng (at3346), Lulu Zhang (ilz2105)
 ## Proposal
 
 **\[insert motivation\]** According to the United States Geological
-Survey, “with global surface temperatures increases the possibility of
-more droughts and increased intensity of storms will likely occur. As
-more water vapor is evaporated into the atmosphere it becomes fuel for
-more powerful storms to develop. More heat in the atmosphere and warmer
-ocean surface temperatures can lead to increased wind speeds in tropical
-storms. Rising sea levels expose higher locations not usually subjected
-to the power of the sea and to the erosive forces of waves and
-currents.” link:
-<https://www.usgs.gov/faqs/how-can-climate-change-affect-natural-disasters-1?qt-news_science_products=0#qt-news_science_products>
+Survey, scientists predict that increasing global surface temperatures
+will increase the frequency of droughts and intensity of storms
+globally. Recent studies examining sea-level rise patterns and
+projections (Hauer, 2017; Kulp & Strauss, 2019) have suggested that
+sea-level rise could induce large-scale migration in the United States
+away from unprotected coastlines and towards inland areas,
+redistributing population density across the country. The potential
+impacts of climate change are far-reaching, ranging from human migration
+and displacement to increased pressure on inland areas and land
+disturbance. We are interested in examining if there is an assocation
+between indicators of climate change and the frequency of natural
+disasters in the United States over the last few decades.
 
 **\[insert final products\]** Our team will submit (1) a written report
 detailing our data collection and analysis, (2) a website and screencast
@@ -34,3 +37,28 @@ linear regression model with number of natural disasters as the outcome
 and type of disaster, year, and county as the covariates of interest.
 
 **\[insert timeline\]**
+
+  - On Monday, November 11th - Project Review Meeting (can change if
+    anyone is away for the weekend to Tuesday November 12th after Data
+    Science or Epi 3)
+
+  - By Friday, November 15th - complete the Motivation, Related work,
+    and Initial Questions sections of the report by this date.
+
+  - By Tuesday, November 19th - complete the Data section of the report,
+    which includes any scraping and cleaning. Can move this up if we
+    think it will be easier with our data. Additionally, create the
+    webpage by today.
+
+  - By Tuesday, November 26th - complete the Explotatory analysis phase,
+    this should be the longest section. Format the webpage to include
+    the created plots.
+
+  - By Tuesday, November 3rd - complete the Additional analysis and
+    Discussion for the Report. This completes the report. Everything
+    expect the screencast will be on the webpage. Have a spot for the
+    screencast already created.
+
+  - On Tuesday, November 3rd - record screencast, upload to youtube, and
+    put the link on the website. Submit project, repo, website link, and
+    peer assessments.
