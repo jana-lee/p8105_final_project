@@ -2,7 +2,7 @@
 title: "P8105 Final Project Proposal"
 author: "Matt Curran (mrc2229), Holly Finertie (hf2379), Jana Lee (jl5295), Ashley Tseng (at3346), Lulu Zhang (ilz2105)"
 date: "11/4/2019"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
