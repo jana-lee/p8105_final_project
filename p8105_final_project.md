@@ -6,8 +6,16 @@ Ashley Tseng (at3346), Lulu Zhang (ilz2105)
 
 ## Proposal
 
-**\[insert motivation\]** talk about climate change and increasing
-frequency of natural disasters
+**\[insert motivation\]** According to the United States Geological
+Survey, “with global surface temperatures increases the possibility of
+more droughts and increased intensity of storms will likely occur. As
+more water vapor is evaporated into the atmosphere it becomes fuel for
+more powerful storms to develop. More heat in the atmosphere and warmer
+ocean surface temperatures can lead to increased wind speeds in tropical
+storms. Rising sea levels expose higher locations not usually subjected
+to the power of the sea and to the erosive forces of waves and
+currents.” link:
+<https://www.usgs.gov/faqs/how-can-climate-change-affect-natural-disasters-1?qt-news_science_products=0#qt-news_science_products>
 
 **\[insert final products\]** Our team will submit (1) a written report
 detailing our data collection and analysis, (2) a website and screencast
