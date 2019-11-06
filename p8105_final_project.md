@@ -1,47 +1,51 @@
-P8105 Final Project Proposal
+Storms Galore: Climate Change & Natural Disasters in the United States
 ================
 Matt Curran (mrc2229), Holly Finertie (hf2379), Jana Lee (jl5295),
 Ashley Tseng (at3346), Lulu Zhang (ilz2105)
 11/4/2019
 
-## Proposal
+## P8105 Final Project Proposal
 
-**\[insert motivation\]** According to the United States Geological
-Survey, scientists predict that increasing global surface temperatures
-will increase the frequency of droughts and intensity of storms
-globally. Recent studies examining sea-level rise patterns and
-projections (Hauer, 2017; Kulp & Strauss, 2019) have suggested that
-sea-level rise could induce large-scale migration in the United States
-away from unprotected coastlines and towards inland areas,
-redistributing population density across the country. The potential
-impacts of climate change are far-reaching, ranging from human migration
-and displacement to increased pressure on inland areas and land
-disturbance. We are interested in examining if there is an assocation
-between indicators of climate change and the frequency of natural
-disasters in the United States since 1953.
+**Motivation**  
+According to the United States Geological Survey, scientists predict
+that increasing global surface temperatures will increase the frequency
+of droughts and intensity of storms globally. Recent studies examining
+sea-level rise patterns and projections (Hauer, 2017; Kulp & Strauss,
+2019) have suggested that sea-level rise could induce large-scale
+migration in the United States away from unprotected coastlines and
+towards inland areas, redistributing population density across the
+country. The potential impacts of climate change are far-reaching,
+ranging from human migration and displacement to increased pressure on
+inland areas and land disturbance. We are interested in examining if
+there is an assocation between indicators of climate change and the
+frequency of natural disasters in the United States since 1953.
 
-**\[insert final products\]** Our team will submit (1) a written report
-detailing our data collection and analysis, (2) a website and screencast
-overview of our project and (3) a GitHub repository that holds all this
-information. These products will highlight the trend of natural
-disasters across the United States from 1953 to 2018.
+**Final Products**  
+Our team will submit (1) a written report detailing our data collection
+and analysis, (2) a website and screencast overview of our project and
+(3) a GitHub repository that holds all this information. These products
+will highlight the trend of natural disasters across the United States
+from 1953 to 2018.
 
-**\[insert data sources\]**
+**Data Sources**  
+Our team will use a publicly available dataset called the “Disaster
+Declarations Summary” (Version 2) from the Federal Emergency Management
+Agency (FEMA). This dataset encompasses declaration summaries from 1953
+to 2019.
 
-**\[insert analyses / visualizations / coding challenges\]** Our data
-consist of natural disaster occurences by type of disaster, state,
-county, and year among other variables. We plan to include graphs of
-disasters over the years to determine whether natural disasters are
+**Analyses, Visualizations, and Coding Challenges**  
+Our data consist of natural disaster occurences by type of disaster,
+state, county, and year among other variables. We plan to include graphs
+of disasters over the years to determine whether natural disasters are
 increasing as we anticipate. Additionally, we will create a multiple
 linear regression model with the number of natural disasters as the
 outcome and type of disaster, year, and county as the covariates of
 interest.
 
-**\[insert timeline\]**
-
-  - On Monday, November 11th - Project review meeting (can change if
-    anyone is away for the weekend to Tuesday November 12th after Data
-    Science or Epi 3).
+**Timeline**  
+\* On Monday, November 11th - Project review meeting (can change if
+anyone is away for the weekend to Tuesday November 12th after Data
+Science or Epi 3).
 
   - By Friday, November 15th - Complete the motivation, related work,
     and initial questions sections of the report.
