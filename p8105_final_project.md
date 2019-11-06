@@ -25,7 +25,7 @@ Our team will submit (1) a written report detailing our data collection
 and analysis, (2) a website and screencast overview of our project, and
 (3) a GitHub repository that holds all this information. These products
 will highlight the trend of natural disasters across the United States
-from 1953 to 2018.
+from 1953 to 2019.
 
 **Data Sources**  
 Our team will use a publicly available dataset called the “Disaster
