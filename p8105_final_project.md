@@ -42,10 +42,11 @@ linear regression model with the number of natural disasters as the
 outcome and type of disaster, year, and county as the covariates of
 interest.
 
-**Timeline**  
-\* On Monday, November 11th - Project review meeting (can change if
-anyone is away for the weekend to Tuesday November 12th after Data
-Science or Epi 3).
+**Timeline**
+
+  - On Monday, November 11th - Project review meeting (can change if
+    anyone is away for the weekend to Tuesday November 12th after Data
+    Science or Epi 3).
 
   - By Friday, November 15th - Complete the motivation, related work,
     and initial questions sections of the report.
