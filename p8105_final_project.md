@@ -22,7 +22,7 @@ frequency of natural disasters in the United States since 1953.
 
 **Final Products**  
 Our team will submit (1) a written report detailing our data collection
-and analysis, (2) a website and screencast overview of our project and
+and analysis, (2) a website and screencast overview of our project, and
 (3) a GitHub repository that holds all this information. These products
 will highlight the trend of natural disasters across the United States
 from 1953 to 2018.
