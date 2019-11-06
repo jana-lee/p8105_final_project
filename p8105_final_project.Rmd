@@ -1,5 +1,5 @@
 ---
-title: "Storms Galore: Climate Change & Natural Disasters in the United States"
+title: "Why Nothing Matters: Climate Change & Natural Disasters in the United States"
 author: "Matt Curran (mrc2229), Holly Finertie (hf2379), Jana Lee (jl5295), Ashley Tseng (at3346), Lulu Zhang (ilz2105)"
 date: "11/4/2019"
 output: github_document
