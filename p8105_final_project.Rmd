@@ -13,27 +13,47 @@ library(tidyverse)
 ## P8105 Final Project Proposal
 
 **Motivation**  
-According to the United States Geological Survey, scientists predict that increasing global surface temperatures will increase the frequency of droughts and intensity of storms globally. Recent studies examining sea-level rise patterns and projections (Hauer, 2017; Kulp & Strauss, 2019) have suggested that sea-level rise could induce large-scale migration in the United States away from unprotected coastlines and towards inland areas, redistributing population density across the country. The potential impacts of climate change are far-reaching, ranging from human migration and displacement to increased pressure on inland areas and land disturbance. We are interested in examining if there is an assocation between indicators of climate change and the frequency of natural disasters in the United States since 1953.
+According to the United States Geological Survey, scientists predict that increasing global surface temperatures 
+will increase the frequency of droughts and intensity of storms globally. Recent studies examining sea-level rise
+patterns and projections (Hauer, 2017; Kulp & Strauss, 2019) have suggested that sea-level rise could induce 
+large-scale migration in the United States away from unprotected coastlines and towards inland areas, redistributing 
+population density across the country. The potential impacts of climate change are far-reaching, ranging from human 
+migration and displacement to increased pressure on inland areas and land disturbance. We are interested in examining 
+if there is an assocation between indicators of climate change and the frequency of natural disasters in the United 
+States since 1953.
 
 **Final Products**  
-Our team will submit (1) a written report detailing our data collection and analysis, (2) a website and screencast overview of our project, and (3) a GitHub repository that holds all this information. These products will highlight the trend of natural disasters across the United States from 1953 to 2019. 
+Our team will submit (1) a written report detailing our data collection and analysis, (2) a website and screencast 
+overview of our project, and (3) a GitHub repository that holds all this information. These products will highlight 
+the trend of natural disasters across the United States from 1953 to 2019. 
 
 **Data Sources**  
-Our team will use a publicly available dataset called the "Disaster Declarations Summary" (Version 2) from the Federal Emergency Management Agency (FEMA). This dataset encompasses declaration summaries from 1953 to 2019 and encompasses all three types of disaster declarations: major disaster, emergency, and fire management assistance. 
+Our team will use a publicly available dataset called the "Disaster Declarations Summary" (Version 2) from the Federal 
+Emergency Management Agency (FEMA). This dataset encompasses declaration summaries from 1953 to 2019 and encompasses 
+all three types of disaster declarations: major disaster, emergency, and fire management assistance. 
  
 **Analyses, Visualizations, and Coding Challenges**  
-Our data consist of natural disaster occurences by type of disaster, state, county, and year among other variables. We plan to include graphs of disasters over the years to determine whether natural disasters are increasing as we anticipate. Additionally, we will create a multiple linear regression model with the number of natural disasters as the outcome and type of disaster, year, and county as the covariates of interest. 
+Our data consist of natural disaster occurences by type of disaster, state, county, and year among other variables. 
+We plan to include graphs of disasters over the years to determine whether natural disasters are increasing as we 
+anticipate. Additionally, we will create a multiple linear regression model with the number of natural disasters 
+as the outcome and type of disaster, year, and county as the covariates of interest. 
 
 **Timeline**    
 
-* On Monday, November 11th - Project review meeting (can change if anyone is away for the weekend to Tuesday November 12th after Data Science or Epi 3).
+* On Monday, November 11th - Project review meeting (can change if anyone is away for the weekend to Tuesday November 
+12th after Data Science or Epi 3).
 
 * By Friday, November 15th - Complete the motivation, related work, and initial questions sections of the report.
 
-* By Tuesday, November 19th - Complete the data section of the report, which includes any scraping and cleaning. Can move this up if we think it will be easier with our data. Additionally, create the webpage by this date.
+* By Tuesday, November 19th - Complete the data section of the report, which includes any scraping and cleaning. 
+Can move this up if we think it will be easier with our data. Additionally, create the webpage by this date.
 
-* By Tuesday, November 26th - Complete the exploratory analysis phase which should be the longest section. Format the webpage to include the created plots.
+* By Tuesday, November 26th - Complete the exploratory analysis phase which should be the longest section. Format 
+the webpage to include the created plots.
 
-* By Tuesday, December 3rd - Complete the additional analysis and discussion sections for the final report. This completes the report. Everything except the screencast will be on the webpage. Will have a spot for the screencast already created.
+* By Tuesday, December 3rd - Complete the additional analysis and discussion sections for the final report. This 
+completes the report. Everything except the screencast will be on the webpage. Will have a spot for the screencast 
+already created.
 
-* On Tuesday, December 3rd - Record screencast, upload to YouTube, and put the link on the website. Submit project, repo, website link, and peer assessments.
+* On Tuesday, December 3rd - Record screencast, upload to YouTube, and put the link on the website. Submit project, 
+repo, website link, and peer assessments.
