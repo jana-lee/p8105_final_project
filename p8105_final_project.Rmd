@@ -40,8 +40,7 @@ increasing as we anticipate. Additionally, we will create a multiple linear regr
 natural disasters as the outcome and type of disaster, year, and county as the covariates of interest. Some anticipated 
 coding challenges are  
 
-**Timeline**    
-
+**Timeline**
 * On Monday, November 11th - Project review meeting (can change if anyone is away for the weekend to Tuesday November 
 12th after Data Science or Epi 3).
 
