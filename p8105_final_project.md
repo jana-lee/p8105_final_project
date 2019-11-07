@@ -69,5 +69,3 @@ Data Science or Epi 3).
   - On Tuesday, December 3rd - Record screencast, upload to YouTube, and
     put the link on the website. Submit project, repo, website link, and
     peer assessments.
-
-testing commits
