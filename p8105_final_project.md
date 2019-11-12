@@ -36,7 +36,7 @@ first disaster declaration in 1953 to March 15, 2019 and includes all
 three types of disaster declarations: major disaster, emergency, and
 fire management assistance.
 
-We will use another dataset looking at climate change indicators.
+For climate change indicators, we will a the NOAA dataset?
 
 **Analyses, Visualizations, and Coding Challenges**  
 Our data consist of natural disaster occurrences by type of disaster,
@@ -50,9 +50,11 @@ determining the best way to present the data, and figuring out the best
 way to merge our datasets. Coordinating changes in R between the five of
 us will also be important.
 
-**Timeline** \* On Monday, November 11th - Project review meeting (can
-change if anyone is away for the weekend to Tuesday November 12th after
-Data Science or Epi 3).
+**Timeline**
+
+  - On Monday, November 11th - Project review meeting (can change if
+    anyone is away for the weekend to Tuesday November 12th after Data
+    Science or Epi 3).
 
   - By Friday, November 15th - Complete the motivation, related work,
     and initial questions sections of the report.
