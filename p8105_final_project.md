@@ -1,4 +1,5 @@
-Storms Galore: Climate Change & Natural Disasters in the United States
+Why Nothing Matters: Climate Change & Natural Disasters in the United
+States
 ================
 Matt Curran (mrc2229), Holly Finertie (hf2379), Jana Lee (jl5295),
 Ashley Tseng (at3346), Lulu Zhang (ilz2105)
@@ -17,7 +18,7 @@ towards inland areas, redistributing population density across the
 country. The potential impacts of climate change are far-reaching,
 ranging from human migration and displacement to increased pressure on
 inland areas and land disturbance. We are interested in examining if
-there is an assocation between indicators of climate change and the
+there is an association between indicators of climate change and the
 frequency of natural disasters in the United States since 1953.
 
 **Final Products**  
@@ -30,23 +31,27 @@ from 1953 to 2019.
 **Data Sources**  
 Our team will use a publicly available dataset called the “Disaster
 Declarations Summary” (Version 2) from the Federal Emergency Management
-Agency (FEMA). This dataset encompasses declaration summaries from 1953
-to 2019.
+Agency (FEMA). This dataset encompasses declaration summaries from the
+first disaster declaration in 1953 to March 15, 2019 and includes all
+three types of disaster declarations: major disaster, emergency, and
+fire management assistance.
+
+We will use another dataset looking at climate change indicators.
 
 **Analyses, Visualizations, and Coding Challenges**  
-Our data consist of natural disaster occurences by type of disaster,
-state, county, and year among other variables. We plan to include graphs
-of disasters over the years to determine whether natural disasters are
-increasing as we anticipate. Additionally, we will create a multiple
-linear regression model with the number of natural disasters as the
-outcome and type of disaster, year, and county as the covariates of
-interest.
+Our data consist of natural disaster occurrences by type of disaster,
+state, county, and year, among other variables. We plan to include
+graphs showing frequency of disasters over the years to determine
+whether natural disasters are increasing as we anticipate. Additionally,
+we will create a multiple linear regression model with the number of
+natural disasters as the outcome and type of disaster, year, and county
+as the covariates of interest. Some anticipated coding challenges are
+determining the best way to present the data, and figuring out the best
+way to merge our datasets to test for an association.
 
-**Timeline**
-
-  - On Monday, November 11th - Project review meeting (can change if
-    anyone is away for the weekend to Tuesday November 12th after Data
-    Science or Epi 3).
+**Timeline** \* On Monday, November 11th - Project review meeting (can
+change if anyone is away for the weekend to Tuesday November 12th after
+Data Science or Epi 3).
 
   - By Friday, November 15th - Complete the motivation, related work,
     and initial questions sections of the report.
