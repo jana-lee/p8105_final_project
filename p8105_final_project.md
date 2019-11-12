@@ -47,7 +47,8 @@ we will create a multiple linear regression model with the number of
 natural disasters as the outcome and type of disaster, year, and county
 as the covariates of interest. Some anticipated coding challenges are
 determining the best way to present the data, and figuring out the best
-way to merge our datasets to test for an association.
+way to merge our datasets. Coordinating changes in R between the five of
+us will also be important.
 
 **Timeline** \* On Monday, November 11th - Project review meeting (can
 change if anyone is away for the weekend to Tuesday November 12th after
