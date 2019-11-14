@@ -29,14 +29,18 @@ will highlight the trend of natural disasters across the United States
 from 1953 to 2019.
 
 **Data Sources**  
-Our team will use a publicly available dataset called the “Disaster
-Declarations Summary” (Version 2) from the Federal Emergency Management
-Agency (FEMA). This dataset encompasses declaration summaries from the
-first disaster declaration in 1953 to March 15, 2019 and includes all
-three types of disaster declarations: major disaster, emergency, and
-fire management assistance.
+Our team will use a publicly available dataset called the [“Disaster
+Declarations
+Summary”](https://www.fema.gov/media-library/assets/documents/28318)
+(Version 2) from the Federal Emergency Management Agency (FEMA). This
+dataset encompasses declaration summaries from the first disaster
+declaration in 1953 to March 15, 2019 and includes all three types of
+disaster declarations: major disaster, emergency, and fire management
+assistance.
 
-For climate change indicators, we will a the NOAA dataset?
+For climate change indicators, we will use national average temperature
+and precipitation values from
+[NOAA](https://www.ncdc.noaa.gov/cag/national/mapping/).
 
 **Analyses, Visualizations, and Coding Challenges**  
 Our data consist of natural disaster occurrences by type of disaster,
